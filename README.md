@@ -1,0 +1,2 @@
+# SY2526T1_GDSTRUC_OTIE2_Pelingon_VinceNikolai
+Repository for GDSTRUCT
