@@ -1,2 +1,2 @@
-# SY2526T1_GDSTRUC_OTIE2_Pelingon_VinceNikolai
+# gdstruc-12412079
 Repository for GDSTRUCT
